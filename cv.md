@@ -12,7 +12,7 @@ height="270" </p>
   <li> Phone: +375 (29) 875-82-57 </li>
   <li>Languages: English (elementary), Russian, Belarusian</li>
   <li><srtong>GitHub:<a href="https://github.com/MARIIIIIIIA"> MARIIIIIIIA</a></srtong></li>
-  <lI><srtong> Telegram:<a href="https://web.telegram.org/k/@mariiiiiia_naumovich"> @mariiiiiia_naumovich</a></srtong></lI>
+  <lI>Telegram:@mariiiiiia_naumovich</lI>
 </ul>
 <h2> HOBBIES </h2>
 <ul>
