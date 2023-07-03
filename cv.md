@@ -8,11 +8,11 @@ height="270" </p>
 <h2>PERSONAL INFO</h2>
 <ul>
   <li> Birthday: 20th June 2001 </li>
-  <li> <srtong> Email: <a href="mashulya_naumovich@mail.ru"> mashulya_naumovich@mail.ru</a></srtong></li>
+  <li>Email: mashulya_naumovich@mail.ru</li>
   <li> Phone: +375 (29) 875-82-57 </li>
   <li>Languages: English (elementary), Russian, Belarusian</li>
   <li><srtong>GitHub:<a href="https://github.com/MARIIIIIIIA"> MARIIIIIIIA</a></srtong></li>
-  <lI>Telegram:@mariiiiiia_naumovich</lI>
+  <lI>Telegram: @mariiiiiia_naumovich</lI>
 </ul>
 <h2> HOBBIES </h2>
 <ul>
