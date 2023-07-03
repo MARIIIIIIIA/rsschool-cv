@@ -12,7 +12,7 @@ height="270" </p>
   <li> Phone: +375 (29) 875-82-57 </li>
   <li>Languages: English (elementary), Russian, Belarusian</li>
   <li><srtong>GitHub:<a href="https://github.com/MARIIIIIIIA"> MARIIIIIIIA</a></srtong></li>
-  <lI><srtong> Telegram:<a href="@mariiiiiia_naumovich"> @mariiiiiia_naumovich</a></srtong></lI>
+  <lI><srtong> Telegram:<a href="https://web.telegram.org/k/@mariiiiiia_naumovich"> @mariiiiiia_naumovich</a></srtong></lI>
 </ul>
 <h2> HOBBIES </h2>
 <ul>
@@ -36,7 +36,6 @@ height="270" </p>
   <p> Controller-cashier, storekeeper, marker (2018-2020)</p>
 </ul>
 <H2>CODE EXAMPLE</H2>
-
 <pre>
   <code>
 9 > 2
